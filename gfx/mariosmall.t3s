@@ -1,0 +1,7 @@
+--atlas -f rgba -z auto
+
+sprites/Mario/idle.png
+sprites/Mario/jump.png
+sprites/Mario/walk_1.png
+sprites/Mario/walk_2.png
+sprites/Mario/walk_3.png
