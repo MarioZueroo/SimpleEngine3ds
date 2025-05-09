@@ -14,7 +14,7 @@ endif
 include $(DEVKITARM)/3ds_rules
 
 # ip address of 3ds for hblauncher/fbi target.
-IP3DS := 192.168.0.102
+IP3DS := 192.xxx.x.xxx
 
 #---------------------------------------------------------------------------------
 # Directory Setup
